@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADO.NET-demo", "ADO.NET-demo\ADO.NET-demo.csproj", "{547E3E69-F091-4127-B743-F52632F40806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetEx", "AdoNetEx\AdoNetEx.csproj", "{8193A02C-0A98-4289-A8B2-DA6764D2C31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{547E3E69-F091-4127-B743-F52632F40806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547E3E69-F091-4127-B743-F52632F40806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547E3E69-F091-4127-B743-F52632F40806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547E3E69-F091-4127-B743-F52632F40806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8193A02C-0A98-4289-A8B2-DA6764D2C31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8193A02C-0A98-4289-A8B2-DA6764D2C31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8193A02C-0A98-4289-A8B2-DA6764D2C31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8193A02C-0A98-4289-A8B2-DA6764D2C31B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75DA2A13-B889-4FE3-B9E4-2F430DFF4B2C}
+	EndGlobalSection
+EndGlobal
